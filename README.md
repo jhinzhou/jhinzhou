@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+MindEcho 是一个 CSS 效果库，内含丰富的特效和动画，技术很菜，但目标远大！
 <!--
 **jhinzhou/jhinzhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
