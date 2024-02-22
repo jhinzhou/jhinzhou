@@ -1,6 +1,6 @@
 ### Hi everybody！✨
 
-- ⚡ MindEcho 是一个 CSS 效果库✨，内含丰富的特效和动画，技术很菜，但目标远大！✨
+- ⚡ MindEcho 是一个 前端技术杂记✨，内含丰富的案例和动画，技术很菜，但目标远大！✨
 - 💬 https://github.com/jhinzhou/MindEcho-UI
 
 ### About me
